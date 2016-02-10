@@ -1,0 +1,27 @@
+_repo: Bird-Lore-Volume-I1899_47500
+contributor:
+  creator:
+    editor:
+      agent_name: Chapman, Frank M. (Frank Michler)
+      alias: Chapman, Frank Michler
+      birthdate: 1864
+      deathdate: 1945
+      gutenberg_agent_id: '35445'
+      url: http://www.gutenberg.org/2009/agents/35445
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2014-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47500'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Bird Lore, Volume I—1899
+url: http://www.gutenberg.org/ebooks/47500
